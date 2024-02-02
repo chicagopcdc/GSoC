@@ -21,6 +21,7 @@
 | **Project Size** | 350 hours |
 | **Rating** | hard|
 
+
 ## Project 3
 | **Title** | Improve the automation and the infrastructure as code cooverage of our infrastructure  | 
 | **Description** | More than half of our codebase requires manual deployment and it is not easily reproducible without prior knowledge of the process. This process consist in improving the CI-CD pipeline. Most of our infrastructure resides in AWS, a secondary goal is to leverage terraform and extend the coverage to Google Cloud.|
@@ -32,6 +33,7 @@
 
 
 ## Project 4
+
 | **Title** | Improve the automation in testing | 
 | **Description** | Set up a Jenkins pipeline to test our applications. Set up integration tests scenarios that are now runnig manually. |
 | **Expected Outcomes** | Having a working Jenkins pipeline with most test coverage.|
@@ -39,6 +41,7 @@
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
 | **Rating** | medium |
+
 
 ## Project 5
 
