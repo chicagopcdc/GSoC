@@ -23,6 +23,7 @@
 
 
 ## Project 3
+
 | **Title** | Improve the automation and the infrastructure as code cooverage of our infrastructure  | 
 | **Description** | Over 50% of our codebase currently necessitates manual deployment and lacks ease of reproducibility for those unfamiliar with the procedure. The solution involves enhancing the CI/CD pipeline. Given that a significant portion of our infrastructure is hosted on AWS, an additional objective is to incorporate Terraform and broaden the coverage to include Google Cloud. |
 | **Expected Outcomes** | Enhancing infrastructure as code and its associated automation by 10-15%. |
