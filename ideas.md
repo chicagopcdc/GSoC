@@ -2,13 +2,13 @@
 
 ## Projects
 
-| Title | Front-end and Adaptive Question Rendering | 
-| Description | |
-| Expected Outcomes | |
-| Skills | |
-| Mentors | |
-| Project Size | |
-| Rating | |
+| **Title** | Front-end and Adaptive Question Rendering | 
+| **Description** | The goal is to make our clinical trial matching application more user friendly, specially for people with no medical knowledge. To achieve this we are implementing an algorithm that will generate a priority for the questions asked to the user. The contributr will be working on optimizing and implementing the REACTJS web application component to render many different types of questions with different types of input. |
+| **Expected Outcomes** | A Adaptive web form that can change according to a JSON input, and embed this new component in the main application. |
+| **Skills** | REACTJS, Javascript|
+| **Mentors** | TBD - One of the Senior DEveloper in the team. |
+| **Project Size** | 350 hours |
+| **Rating** | medium |
 
 
 
@@ -16,13 +16,13 @@
 
 
 
-| Title |  | 
-| Description | |
-| Expected Outcomes | |
-| Skills | |
-| Mentors | |
-| Project Size | |
-| Rating | |
+| **Title** |  | 
+| **Description** | |
+| **Expected Outcomes** | |
+| **Skills** | |
+| **Mentors** | |
+| **Project Size** | |
+| **Rating** | |
 
 Each project on the Ideas list should include: a) a project title/description b) more detailed description of the project (2-5 sentences) c) expected outcomes d) skills required/preferred e) possible mentors f) expected size of project (90, 175 or 350 hour – yes, 3 options starting in 2023). And if possible, an easy, medium or hard rating of each project. This helps the more inexperience folks not get overwhelmed and they can focus on reviewing easy project ideas.
 
