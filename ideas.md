@@ -3,8 +3,8 @@
 ## Project 1
 
 | **Title** | Front-end and Adaptive Question Rendering | 
-| **Description** | The goal is to make our clinical trial matching application more user friendly, specially for people with no medical knowledge. To achieve this we are implementing an algorithm that will generate a priority for the questions asked to the user. The contributr will be working on optimizing and implementing the REACTJS web application component to render many different types of questions with different types of input. |
-| **Expected Outcomes** | A Adaptive web form that can change according to a JSON input, and embed this new component in the main application. |
+| **Description** | The objective is to enhance the user-friendliness of our clinical trial matching application, particularly for individuals without medical expertise. To achieve this, we are incorporating an algorithm to prioritize the questions presented to the user. The contributor will focus on optimizing and implementing the REACTJS web application component, enabling the rendering of various question types with different input formats. |
+| **Expected Outcomes** | An adaptive web form capable of dynamically adjusting based on a JSON input will be developed, and this new component will be integrated into the main application. |
 | **Skills** | REACTJS, Javascript|
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
@@ -14,8 +14,8 @@
 ## Project 2
 
 | **Title** | Self Generate Table 1 (also known as demographics table) | 
-| **Description** | The table 1 is a summary table often found in papers and publications. It is usually the first table in those documents and for this reason called table 1. It consists in a descriptive distribution of the data. Each row consist in a variable (for instance age). Each column is a variable or a group of variables defining a category of distribution (for instance sex). And each intersection of the columns will have a count or a percentage of the population. So in this example The the cell [age : female] willl have the mean value of age for the female subjects in the dataset, the cell [age : male] will have the mean age for the male subjects and so on. |
-| **Expected Outcomes** | A configurable table 1 that can handle both continous and categorical variable as well as combination of variables in the grouping definition. |
+| **Description** | Table 1, commonly found in papers and publications, serves as a summary table, often positioned as the initial table in these documents and hence referred to as "Table 1." This table provides a descriptive distribution of the data. Each row corresponds to a variable (e.g., age), and each column represents a variable or a group of variables defining a category of distribution (e.g., sex). At each intersection of the rows and columns, there is a count or percentage of the population. In this example, the cell [age: female] contains the mean age value for the female subjects in the dataset, while the cell [age: male] holds the mean age for the male subjects, and so forth. |
+| **Expected Outcomes** | An adaptable Table 1 designed to accommodate both continuous and categorical variables, along with combinations of variables in the grouping definition. |
 | **Skills** | Python, Javascript |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
@@ -24,8 +24,8 @@
 
 ## Project 3
 | **Title** | Improve the automation and the infrastructure as code cooverage of our infrastructure  | 
-| **Description** | More than half of our codebase requires manual deployment and it is not easily reproducible without prior knowledge of the process. This process consist in improving the CI-CD pipeline. Most of our infrastructure resides in AWS, a secondary goal is to leverage terraform and extend the coverage to Google Cloud.|
-| **Expected Outcomes** | Increasing by 10-15% the infrastructure as code and automation around it.|
+| **Description** | Over 50% of our codebase currently necessitates manual deployment and lacks ease of reproducibility for those unfamiliar with the procedure. The solution involves enhancing the CI/CD pipeline. Given that a significant portion of our infrastructure is hosted on AWS, an additional objective is to incorporate Terraform and broaden the coverage to include Google Cloud. |
+| **Expected Outcomes** | Enhancing infrastructure as code and its associated automation by 10-15%. |
 | **Skills** | Terraform, AWS|
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
@@ -35,8 +35,8 @@
 ## Project 4
 
 | **Title** | Improve the automation in testing | 
-| **Description** | Set up a Jenkins pipeline to test our applications. Set up integration tests scenarios that are now runnig manually. |
-| **Expected Outcomes** | Having a working Jenkins pipeline with most test coverage.|
+| **Description** | Establish a Jenkins pipeline to automate the testing of our applications. Additionally, configure integration test scenarios that are currently executed manually. |
+| **Expected Outcomes** | Establishing a functional Jenkins pipeline with comprehensive test coverage. |
 | **Skills** | Terraform, AWS|
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
@@ -46,8 +46,8 @@
 ## Project 5
 
 | **Title** | Exploration of a new Component of the opensource GEN3 framework | 
-| **Description** | The contributor will be evaluating the new GEN3 frontend framework. This will include deploying it locally, try different customizations. In addition if this will be considered as a useful REACTJS app the contributor will migrate the main component from our current REACTJS frontend application to the new frontend framework. |
-| **Expected Outcomes** | Either the migration of our main components to the new application in case the discovery of the new tool has positive results or removing the new frontend framework migration from our roadmap. |
+| **Description** | The contributor will assess the viability of the new GEN3 frontend framework, involving tasks such as local deployment and exploration of various customizations. If the framework proves to be a valuable REACTJS application, the contributor will proceed to migrate the main component from our existing REACTJS frontend application to this new frontend framework. |
+| **Expected Outcomes** | Either migrate our main components to the new application if the new tool yields positive results or remove the migration of the new frontend framework from our roadmap. |
 | **Skills** | Javascript, REACTJS |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
