@@ -1,4 +1,5 @@
 # Ideas
+Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 
 ## Project 1
 
