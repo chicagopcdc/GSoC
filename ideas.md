@@ -76,3 +76,14 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
 | **Rating** | hard |
+
+
+## Project 8
+
+| **Title** | Developing a Cross-Platform App for User Consent and Data Sharing from Apple Health and CommonHealth Using React Native | 
+| **Description** | This project focuses on creating a cross-platform mobile app (iOS and Android) using React Native that allows users to consent and share their health data from both Apple Health and CommonHealth. The app will enable users to manage their data sharing preferences, securely transmit health information, and empower them to participate in research or share data with healthcare providers. |
+| **Expected Outcomes** | Initial App version |
+| **Skills** | React Native, Android, iOS |
+| **Mentors** | TBD - One of the Senior Developer in the team. |
+| **Project Size** | 350 hours |
+| **Rating** | hard |
