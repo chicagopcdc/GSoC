@@ -36,10 +36,10 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 
 ## Project 4
 
-| **Title** | Improve the automation in testing | 
-| **Description** | Establish a Jenkins pipeline to automate the testing of our applications. Additionally, configure integration test scenarios that are currently executed manually. |
-| **Expected Outcomes** | Establishing a functional Jenkins pipeline with comprehensive test coverage. |
-| **Skills** | Terraform, AWS|
+| **Title** | Developing Custom Jupyter Notebooks for AVRO File Processing and QA/QC Analysis | 
+| **Description** | This project aims to create custom Jupyter notebooks that help users efficiently unpack AVRO files, perform quality assurance (QA) and quality control (QC) checks, and run basic data analyses. The goal is to provide a user-friendly, interactive environment where users can explore, validate, and analyze AVRO-formatted data without requiring deep expertise in data engineering. |
+| **Expected Outcomes** | AVRO File Handling on startup, QA/QC Checks, Basic Data Analysis. |
+| **Skills** | Python, networking|
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
 | **Rating** | medium |
@@ -47,10 +47,10 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 
 ## Project 5
 
-| **Title** | Exploration of a new Component of the opensource GEN3 framework | 
-| **Description** | The contributor will assess the viability of the new GEN3 frontend framework, involving tasks such as local deployment and exploration of various customizations. If the framework proves to be a valuable REACTJS application, the contributor will proceed to migrate the main component from our existing REACTJS frontend application to this new frontend framework. |
-| **Expected Outcomes** | Either migrate our main components to the new application if the new tool yields positive results or remove the migration of the new frontend framework from our roadmap. |
-| **Skills** | Javascript, REACTJS |
+| **Title** | Extending the HAPI FHIR Server for Enhanced Functionality and Interoperability | 
+| **Description** | This project aims to extend the HAPI FHIR Server, a leading open-source implementation of the FHIR standard, to improve its functionality, scalability, and interoperability. The enhancements will support advanced healthcare use cases, making it easier for developers and organizations to manage and exchange FHIR-compliant health data efficiently. |
+| **Expected Outcomes** | Custom FHIR Operations & Extensions |
+| **Skills** | Java, FHIR |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
 | **Rating** | medium |
