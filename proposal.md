@@ -3,9 +3,10 @@
 ## How to Apply
 
 1. Review the projects [here](https://docs.pedscommons.org/GSoC/ideas).
-2. Please send a brief resume to lgraglia@uchicago.edu
-3. Please send a paragraph describing your interest, and why you want to participate to lgraglia@uchicago.edu.
-4. Submit the application/proposal including all requirements at the Google Summer of Code Site.
-5. A selection among the applicants will have a Zoom (or a phone call depending on the prefrence of the contributor) with one of the mentors.
+2. Please send the following to lgraglia@uchicago.edu and rpalacios@bsd.uchicago.edu:
+    - a brief resume
+    - a paragraph describing your interest, and why you want to participate
+    - a draft of your proposal or project related questions you may have
+3. Submit the application/proposal including all requirements at the Google Summer of Code Site.
 
-IMPORTANT: We will be rejecting any candidate that doesn't follow this process and spams other people in the team. The only email address that will consider your application is the one displayed above in the second and third bullet point.
+IMPORTANT: We will reject any candidate who does not follow this process or spams other team members. The only email addresses that will consider your application are the ones listed in the second bullet point above.
