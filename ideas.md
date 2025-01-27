@@ -3,10 +3,10 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 
 ## Project 1
 
-| **Title** | Front-end and Adaptive Question Rendering | 
-| **Description** | The objective is to enhance the user-friendliness of our clinical trial matching application, particularly for individuals without medical expertise. To achieve this, we are incorporating an algorithm to prioritize the questions presented to the user. The contributor will focus on optimizing and implementing the REACTJS web application component, enabling the rendering of various question types with different input formats. |
-| **Expected Outcomes** | An adaptive web form capable of dynamically adjusting based on a JSON input will be developed, and this new component will be integrated into the main application. |
-| **Skills** | REACTJS, Javascript|
+| **Title** | Enhancing the SMART on FHIR Backend for Patient-Controlled Data Sharing | 
+| **Description** | The goal of this project is to improve and extend the backend of a SMART on FHIR application that empowers patients to autonomously access, share, and manage their electronic health records (EHR). The application serves as a data interoperability layer, allowing users to seamlessly transfer their healthcare data to meet various needs, such as research participation, second opinions, or personal health tracking. |
+| **Expected Outcomes** | One or both of the following: Improving the integration with diverse FHIR servers and refining data transformation capabilities. Building APIs or plugins to support additional healthcare applications and third-party services. |
+| **Skills** | Java, python|
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
 | **Rating** | medium |
@@ -14,21 +14,21 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 
 ## Project 2
 
-| **Title** | Self Generate Table 1 (also known as demographics table) | 
-| **Description** | Table 1, commonly found in papers and publications, serves as a summary table, often positioned as the initial table in these documents and hence referred to as "Table 1." This table provides a descriptive distribution of the data. Each row corresponds to a variable (e.g., age), and each column represents a variable or a group of variables defining a category of distribution (e.g., sex). At each intersection of the rows and columns, there is a count or percentage of the population. In this example, the cell [age: female] contains the mean age value for the female subjects in the dataset, while the cell [age: male] holds the mean age for the male subjects, and so forth. |
-| **Expected Outcomes** | An adaptable Table 1 designed to accommodate both continuous and categorical variables, along with combinations of variables in the grouping definition. |
-| **Skills** | Python, Javascript |
+| **Title** | Enhancing the SMART on FHIR Frontend for Patient-Controlled Data Sharing | 
+| **Description** | This project aims to improve the frontend user interface for a SMART on FHIR application that enables patients to autonomously access, manage, and share their electronic health records (EHR). The focus is on making the UI more intuitive, accessible, and user-friendly, ensuring a seamless experience for users connecting to the backend service. |
+| **Expected Outcomes** | Improved User Experience (UX) |
+| **Skills** | Javascript, Node |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
-| **Rating** | hard|
+| **Rating** | medium|
 
 
 ## Project 3
 
-| **Title** | Improve the automation and the infrastructure as code cooverage of our infrastructure  | 
-| **Description** | Over 50% of our codebase currently necessitates manual deployment and lacks ease of reproducibility for those unfamiliar with the procedure. The solution involves enhancing the CI/CD pipeline. Given that a significant portion of our infrastructure is hosted on AWS, an additional objective is to incorporate Terraform and broaden the coverage to include Google Cloud. |
-| **Expected Outcomes** | Enhancing infrastructure as code and its associated automation by 10-15%. |
-| **Skills** | Terraform, AWS|
+| **Title** | Developing a FHIR Resource Tabular Viewer for Efficient Data Exploration  | 
+| **Description** | This project aims to build a FHIR Resource Tabular Viewer, an application that transforms complex, nested FHIR data structures into an easy-to-navigate tabular format. This tool will allow users—such as researchers, clinicians, and developers—to efficiently search, filter, and analyze FHIR resources, improving accessibility and usability of healthcare data. |
+| **Expected Outcomes** | Tabular Representation of FHIR Data and Search & Filtering Capabilities. |
+| **Skills** | Python, Javascript |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
 | **Rating** | medium |
