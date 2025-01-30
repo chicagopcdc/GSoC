@@ -59,7 +59,7 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 ## Project 6
 
 | **Title** | Developing a Translation Service to Connect GEARBOx API with mCODE Trial Matching Service | 
-| **Description** | This project aims to build a translation service that connects the [GEARBOx](gearbox.pedscommons.org) API with the mCODE (Minimal Common Oncology Data Elements) trial matching service. The goal is to enable seamless translation of oncology data between GEARBOx and mCODE, allowing healthcare providers, researchers, and clinical trial platforms to effectively match patients to relevant clinical trials based on their mCODE-compliant health data. |
+| **Description** | This project aims to build a translation service that connects the [GEARBOx](https://gearbox.pedscommons.org){:target="_blank"} API with the mCODE (Minimal Common Oncology Data Elements) trial matching service. The goal is to enable seamless translation of oncology data between GEARBOx and mCODE, allowing healthcare providers, researchers, and clinical trial platforms to effectively match patients to relevant clinical trials based on their mCODE-compliant health data. |
 | **Expected Outcomes** | Data Mapping & Transformation, Interoperability & Validation |
 | **Skills** | Python, Typescript |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
@@ -70,7 +70,7 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 ## Project 7
 
 | **Title** | Building a Chatbot for Generating GraphQL and Custom Queries for Cohort Descriptions | 
-| **Description** | This project aims to develop a chatbot powered by ChatGPT or another large language model (LLM) that allows users to describe a cohort of patients and automatically generates GraphQL queries or custom queries based on the input for the [PCDC](portal.pedscommons.org). The goal is to simplify the process of building complex queries for patient data by allowing users to interact with the chatbot in natural language, rather than navigating through a UI or manually searching for filters. |
+| **Description** | This project aims to develop a chatbot powered by ChatGPT or another large language model (LLM) that allows users to describe a cohort of patients and automatically generates GraphQL queries or custom queries based on the input for the [PCDC](https://portal.pedscommons.org){:target="_blank"}. The goal is to simplify the process of building complex queries for patient data by allowing users to interact with the chatbot in natural language, rather than navigating through a UI or manually searching for filters. |
 | **Expected Outcomes** | GraphQL Query Generation |
 | **Skills** | LLM, Javascript |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
