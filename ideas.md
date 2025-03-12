@@ -87,3 +87,14 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
 | **Rating** | hard |
+
+
+## Project 9 
+
+| **Title** | Enhancing the Cohort Discovery Chatbot | 
+| **Description** | This project aims to enhance a cohort discovery chatbot by improving its accuracy, usability, and query generation capabilities. Enhancements will focus on refining natural language understanding (NLU), improving query accuracy, supporting more complex filters, and integrating feedback mechanisms to learn from user interactions. |
+| **Expected Outcomes** | Improved chatbot accuracy in understanding and generating cohort queries |
+| **Skills** | LLM, Javascript |
+| **Mentors** | TBD - One of the Senior Developer in the team. |
+| **Project Size** | 350 hours |
+| **Rating** | hard |
