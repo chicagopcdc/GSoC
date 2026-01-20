@@ -15,8 +15,8 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 ## Project 2
 
 | **Title** | Enhancing the SMART on FHIR Frontend for Patient-Controlled Data Sharing | 
-| **Description** | This project aims to improve the frontend user interface for a SMART on FHIR application that enables patients to autonomously access, manage, and share their electronic health records (EHR). The focus is on making the UI more intuitive, accessible, and user-friendly, ensuring a seamless experience for users connecting to the backend service. |
-| **Expected Outcomes** | Improved User Experience (UX) |
+| **Description** | This project aims to improve the frontend user interface for a SMART on FHIR application that enables patients to autonomously access, manage, and share their electronic health records (EHR). The focus is on making the UI more intuitive, accessible, and user-friendly, ensuring a seamless experience for users connecting to the backend service. This project build and enhance last year project. |
+| **Expected Outcomes** | Extend support to more EHR provider connections. |
 | **Skills** | Javascript, Node |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
@@ -25,9 +25,9 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 
 ## Project 3
 
-| **Title** | Developing a FHIR Resource Tabular Viewer for Efficient Data Exploration  | 
-| **Description** | This project aims to build a FHIR Resource Tabular Viewer, an application that transforms complex, nested FHIR data structures into an easy-to-navigate tabular format. This tool will allow users—such as researchers, clinicians, and developers—to efficiently search, filter, and analyze FHIR resources, improving accessibility and usability of healthcare data. |
-| **Expected Outcomes** | Tabular Representation of FHIR Data and Search & Filtering Capabilities. |
+| **Title** | Enhancing a FHIR Resource Tabular Viewer for Efficient Data Exploration  | 
+| **Description** | This project aims to enhance a FHIR Resource Tabular Viewer, an application that transforms complex, nested FHIR data structures into an easy-to-navigate tabular format. This tool will allow users—such as researchers, clinicians, and developers—to efficiently search, filter, and analyze FHIR resources, improving accessibility and usability of healthcare data. This project build and enhance last year project. |
+| **Expected Outcomes** | Enhanced resource management and visualization and extend support to more data source, like local file, and S3 buckets. |
 | **Skills** | Python, Javascript |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
@@ -36,21 +36,29 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 
 ## Project 4
 
-| **Title** | Developing Custom Jupyter Notebooks for AVRO File Processing and QA/QC Analysis | 
-| **Description** | This project aims to create custom Jupyter notebooks that help users efficiently unpack AVRO files, perform quality assurance (QA) and quality control (QC) checks, and run basic data analyses. The goal is to provide a user-friendly, interactive environment where users can explore, validate, and analyze AVRO-formatted data without requiring deep expertise in data engineering. |
-| **Expected Outcomes** | AVRO File Handling on startup, QA/QC Checks, Basic Data Analysis. |
-| **Skills** | Python, networking|
+| **Title** | Enhancing a Chatbot for Generating GraphQL and Custom Queries for Cohort Descriptions | 
+| **Description** | This project aims to enhance a chatbot powered by ChatGPT or another large language model (LLM) that allows users to describe a cohort of patients and automatically generates GraphQL queries or custom queries based on the input for the [PCDC](https://portal.pedscommons.org){:target="_blank"}. The goal is to simplify the process of building complex queries for patient data by allowing users to interact with the chatbot in natural language, rather than navigating through a UI or manually searching for filters. This project build and enhance last year project. |
+| **Expected Outcomes** | Interactive chatbot - Agent for capturing various user intent/needs and routing the requests to tools: general inquiry, Browsing documentation (currently in progress), Generating GraphQL. |
+| **Skills** | LLM, Javascript |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
-| **Rating** | medium |
+| **Rating** | hard |
+
+Improve the GraphQL generator for simple and complex query conformed to PCDC data model
+Evaluation: evaluate the output against saved GraphQL queries (filterset)
+Develop GraphQL generator as a part of Interactive chatbot - Agent for capturing various user intent/needs and routing the requests to tools
+Tool 1: general inquiry
+Tool 2: Browsing documentation (currently in progress)
+Tool 3: Generating GraphQL
+Any function, that would be useful in cohort discovery
 
 
-## Project 5
+## Project 5 
 
-| **Title** | Extending the HAPI FHIR Server for Enhanced Functionality and Interoperability | 
-| **Description** | This project aims to extend the HAPI FHIR Server, a leading open-source implementation of the FHIR standard, to improve its functionality, scalability, and interoperability. The enhancements will support advanced healthcare use cases, making it easier for developers and organizations to manage and exchange FHIR-compliant health data efficiently. |
-| **Expected Outcomes** | Custom FHIR Operations & Extensions |
-| **Skills** | Java, FHIR |
+| **Title** | Data Density Heatmap Application | 
+| **Description** | The goal of this project is to develop a web-based heatmap visualization tool that represents the completeness and distribution of data across an entire dataset. The application will display data “density” by GraphQL node types and their specific attributes, enabling users to quickly identify areas with high or low data availability. This tool is intended to support researchers and data managers in assessing dataset quality and guiding curation efforts. |
+| **Expected Outcomes** | A fully functional, configuration-driven heatmap application that dynamically generates visualizations from live GraphQL endpoints.  |
+| **Skills** | Javascript, D3 (or similar visualization libraries) |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
 | **Rating** | medium |
@@ -58,9 +66,9 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 
 ## Project 6
 
-| **Title** | Developing a Translation Service to Connect GEARBOx API with mCODE Trial Matching Service | 
-| **Description** | This project aims to build a translation service that connects the [GEARBOx](https://gearbox.pedscommons.org){:target="_blank"} API with the mCODE (Minimal Common Oncology Data Elements) trial matching service. The goal is to enable seamless translation of oncology data between GEARBOx and mCODE, allowing healthcare providers, researchers, and clinical trial platforms to effectively match patients to relevant clinical trials based on their mCODE-compliant health data. |
-| **Expected Outcomes** | Data Mapping & Transformation, Interoperability & Validation |
+| **Title** | Enhance GEARBOx trial matching page   | 
+| **Description** | This project aims to create a new user experience. The current implementation has teh user looking at a list of all available trials related questions, and has to respond to as many as possible with the available data by scrolling a very long column. The new version will have a typeahead search or a dropdown with search where the user can search and select only the filter he has data for. |
+| **Expected Outcomes** | New working UI page |
 | **Skills** | Python, Typescript |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
@@ -69,32 +77,11 @@ Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
 
 ## Project 7
 
-| **Title** | Building a Chatbot for Generating GraphQL and Custom Queries for Cohort Descriptions | 
-| **Description** | This project aims to develop a chatbot powered by ChatGPT or another large language model (LLM) that allows users to describe a cohort of patients and automatically generates GraphQL queries or custom queries based on the input for the [PCDC](https://portal.pedscommons.org){:target="_blank"}. The goal is to simplify the process of building complex queries for patient data by allowing users to interact with the chatbot in natural language, rather than navigating through a UI or manually searching for filters. |
-| **Expected Outcomes** | GraphQL Query Generation |
-| **Skills** | LLM, Javascript |
+| **Title** | Generating decision tree (or flow chart)   | 
+| **Description** | Generating decision tree (or flowchart) from free-text and GEARBOx Doccano annotation data. |
+| **Expected Outcomes** | Decision tree in json format used in admin UI in order to determine priority and order of criteria. Map to patient data: synthetic patient data or EHR data (If patient data is available). |
+| **Skills** | Python, Typescript |
 | **Mentors** | TBD - One of the Senior Developer in the team. |
 | **Project Size** | 350 hours |
-| **Rating** | hard |
+| **Rating** | medium |
 
-
-## Project 8
-
-| **Title** | Developing a Cross-Platform App for User Consent and Data Sharing from Apple Health and CommonHealth Using React Native | 
-| **Description** | This project focuses on creating a cross-platform mobile app (iOS and Android) using React Native that allows users to consent and share their health data from both Apple Health and CommonHealth. The app will enable users to manage their data sharing preferences, securely transmit health information, and empower them to participate in research or share data with healthcare providers. |
-| **Expected Outcomes** | Initial App version |
-| **Skills** | React Native, Android, iOS |
-| **Mentors** | TBD - One of the Senior Developer in the team. |
-| **Project Size** | 350 hours |
-| **Rating** | hard |
-
-
-## Project 9 
-
-| **Title** | Enhancing the Cohort Discovery Chatbot | 
-| **Description** | This project aims to enhance a cohort discovery chatbot by improving its accuracy, usability, and query generation capabilities. Enhancements will focus on refining natural language understanding (NLU), improving query accuracy, supporting more complex filters, and integrating feedback mechanisms to learn from user interactions. |
-| **Expected Outcomes** | Improved chatbot accuracy in understanding and generating cohort queries |
-| **Skills** | LLM, Javascript |
-| **Mentors** | TBD - One of the Senior Developer in the team. |
-| **Project Size** | 350 hours |
-| **Rating** | hard |
