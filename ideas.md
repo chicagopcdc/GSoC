@@ -1,5 +1,5 @@
 # Ideas
-Instructions [here](https://docs.pedscommons.org/GSoC/proposal).
+Instructions [here](https://chicagopcdc.github.io/GSoC/proposal).
 
 ## Project 1
 
