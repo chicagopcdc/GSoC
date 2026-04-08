@@ -7,6 +7,6 @@
     - a brief resume
     - a paragraph describing your interest, and why you want to participate
     - a draft of your proposal or project related questions you may have
-3. Submit the application/proposal including all requirements at the Google Summer of Code Site.
+3. Submit the application/proposal including all requirements at the Google Summer of Code Site. Make sure to include the project number in tha application name ex: "project 1".
 
 IMPORTANT: We will reject any candidate who does not follow this process or spams other team members. The only email address that will consider your application is the one listed in the second bullet point above.
